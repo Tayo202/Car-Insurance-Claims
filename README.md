@@ -17,6 +17,7 @@ Useful to Individual who want to buy reliable cars with no/low crash history.
 - The data consists of only one table therefore there was no possibility of data modelling.
 ![](https://user-images.githubusercontent.com/97166079/260899712-c601f202-ed12-4749-be57-daffd5a85fcd.png)
 ![](https://user-images.githubusercontent.com/97166079/260900068-a5d3dab1-6b2e-4361-a532-6efbfcfacb40.png)
+
 ## Data Attributes 
 ![](https://user-images.githubusercontent.com/97166079/260836285-ca94f7f6-40a3-480f-9644-6dd558a14f53.png)
 **Count of Individuals = 37542**
