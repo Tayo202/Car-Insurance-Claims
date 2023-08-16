@@ -15,8 +15,9 @@ Useful to Individual who want to buy reliable cars with no/low crash history.
 - Data cleaning 
 - DAX Language in Measures creation
 - The data consists of only one table therefore there was no possibility of data modelling.
+### Raw Data
 ![](https://user-images.githubusercontent.com/97166079/260900626-936b6a92-a624-45bb-a9bf-2205a40204eb.png)
-
+### Clean Data
 ![](https://user-images.githubusercontent.com/97166079/260900591-99463940-110a-4032-9f9b-e276f2635e1e.png)
 
 
@@ -51,3 +52,6 @@ Cars with over 1000 Users              |      Cars with over 1000 Users _Condens
 
 ## Conclusion
 Insights from data shows the age ranges of individuals with car insurance claims and cars with greater frequency of insurance claims
+
+## Dashboard
+link to the dasbboard is [here](https://chaqar-my.sharepoint.com/:x:/g/personal/olutyakinpelu_chaqar_onmicrosoft_com/EQXNk0mybVxBha0rdnvlSyQBV8TXrgJIvhAkuWyaOteuew?e=PVa2f3)
